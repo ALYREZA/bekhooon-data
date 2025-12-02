@@ -112,7 +112,16 @@
     "name": "ح",
     "category": "ح",
     "description": "کلمات با حرف ح",
-    "cardIds": [],
+    "cardIds": [
+      "ha-1",
+      "ha-2",
+      "ha-3",
+      "ha-4",
+      "ha-5",
+      "ha-6",
+      "ha-7",
+      "ha-8"
+    ],
     "isCustom": false,
     "order": 8
   },
@@ -121,7 +130,16 @@
     "name": "خ",
     "category": "خ",
     "description": "کلمات با حرف خ",
-    "cardIds": [],
+    "cardIds": [
+      "kh-1",
+      "kh-2",
+      "kh-3",
+      "kh-4",
+      "kh-5",
+      "kh-6",
+      "kh-7",
+      "kh-8"
+    ],
     "isCustom": false,
     "order": 9
   },
@@ -148,7 +166,16 @@
     "name": "ذ",
     "category": "ذ",
     "description": "کلمات با حرف ذ",
-    "cardIds": [],
+    "cardIds": [
+      "zal-1",
+      "zal-2",
+      "zal-3",
+      "zal-4",
+      "zal-5",
+      "zal-6",
+      "zal-7",
+      "zal-8"
+    ],
     "isCustom": false,
     "order": 11
   },
@@ -175,7 +202,16 @@
     "name": "ز",
     "category": "ز",
     "description": "کلمات با حرف ز",
-    "cardIds": [],
+    "cardIds": [
+      "ze-1",
+      "ze-2",
+      "ze-3",
+      "ze-4",
+      "ze-5",
+      "ze-6",
+      "ze-7",
+      "ze-8"
+    ],
     "isCustom": false,
     "order": 32
   },
@@ -184,7 +220,16 @@
     "name": "ژ",
     "category": "ژ",
     "description": "کلمات با حرف ژ",
-    "cardIds": [],
+    "cardIds": [
+      "zhe-1",
+      "zhe-2",
+      "zhe-3",
+      "zhe-4",
+      "zhe-5",
+      "zhe-6",
+      "zhe-7",
+      "zhe-8"
+    ],
     "isCustom": false,
     "order": 13
   },
@@ -229,7 +274,16 @@
     "name": "ص",
     "category": "ص",
     "description": "کلمات با حرف ص",
-    "cardIds": [],
+    "cardIds": [
+      "sah-1",
+      "sah-2",
+      "sah-3",
+      "sah-4",
+      "sah-5",
+      "sah-6",
+      "sah-7",
+      "sah-8"
+    ],
     "isCustom": false,
     "order": 31
   },
@@ -238,7 +292,16 @@
     "name": "ض",
     "category": "ض",
     "description": "کلمات با حرف ض",
-    "cardIds": [],
+    "cardIds": [
+      "zah-1",
+      "zah-2",
+      "zah-3",
+      "zah-4",
+      "zah-5",
+      "zah-6",
+      "zah-7",
+      "zah-8"
+    ],
     "isCustom": false,
     "order": 16
   },
@@ -247,7 +310,16 @@
     "name": "ط",
     "category": "ط",
     "description": "کلمات با حرف ط",
-    "cardIds": [],
+    "cardIds": [
+      "tah-1",
+      "tah-2",
+      "tah-3",
+      "tah-4",
+      "tah-5",
+      "tah-6",
+      "tah-7",
+      "tah-8"
+    ],
     "isCustom": false,
     "order": 17
   },
@@ -256,7 +328,16 @@
     "name": "ظ",
     "category": "ظ",
     "description": "کلمات با حرف ظ",
-    "cardIds": [],
+    "cardIds": [
+      "zah-1",
+      "zah-2",
+      "zah-3",
+      "zah-4",
+      "zah-5",
+      "zah-6",
+      "zah-7",
+      "zah-8"
+    ],
     "isCustom": false,
     "order": 18
   },
@@ -265,7 +346,16 @@
     "name": "ع",
     "category": "ع",
     "description": "کلمات با حرف ع",
-    "cardIds": [],
+    "cardIds": [
+      "ain-1",
+      "ain-2",
+      "ain-3",
+      "ain-4",
+      "ain-5",
+      "ain-6",
+      "ain-7",
+      "ain-8"
+    ],
     "isCustom": false,
     "order": 19
   },
@@ -274,7 +364,16 @@
     "name": "غ",
     "category": "غ",
     "description": "کلمات با حرف غ",
-    "cardIds": [],
+    "cardIds": [
+      "qain-1",
+      "qain-2",
+      "qain-3",
+      "qain-4",
+      "qain-5",
+      "qain-6",
+      "qain-7",
+      "qain-8"
+    ],
     "isCustom": false,
     "order": 20
   },
@@ -301,7 +400,16 @@
     "name": "ق",
     "category": "ق",
     "description": "کلمات با حرف ف",
-    "cardIds": [],
+    "cardIds": [
+      "qaf-1",
+      "qaf-2",
+      "qaf-3",
+      "qaf-4",
+      "qaf-5",
+      "qaf-6",
+      "qaf-7",
+      "qaf-8"
+    ],
     "isCustom": false,
     "order": 22
   },
@@ -346,7 +454,16 @@
     "name": "ل",
     "category": "ل",
     "description": "کلمات با حرف ل",
-    "cardIds": [],
+    "cardIds": [
+      "lam-1",
+      "lam-2",
+      "lam-3",
+      "lam-4",
+      "lam-5",
+      "lam-6",
+      "lam-7",
+      "lam-8"
+    ],
     "isCustom": false,
     "order": 25
   },
