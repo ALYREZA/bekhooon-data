@@ -4,16 +4,6 @@
     "name": "ا",
     "category": "ا",
     "description": "کلمات با حرف ا",
-    "cardIds": [
-      "alef-1",
-      "alef-2",
-      "alef-3",
-      "alef-4",
-      "alef-5",
-      "alef-6",
-      "alef-7",
-      "alef-8"
-    ],
     "isCustom": false,
     "order": 1
   },
@@ -22,16 +12,6 @@
     "name": "ب",
     "category": "ب",
     "description": "کلمات با حرف ب",
-    "cardIds": [
-      "be-1",
-      "be-2",
-      "be-3",
-      "be-4",
-      "be-5",
-      "be-6",
-      "be-7",
-      "be-8"
-    ],
     "isCustom": false,
     "order": 2
   },
@@ -40,16 +20,6 @@
     "name": "پ",
     "category": "پ",
     "description": "کلمات با حرف پ",
-    "cardIds": [
-      "pe-1",
-      "pe-2",
-      "pe-3",
-      "pe-4",
-      "pe-5",
-      "pe-6",
-      "pe-7",
-      "pe-8"
-    ],
     "isCustom": false,
     "order": 3
   },
@@ -58,16 +28,6 @@
     "name": "ت",
     "category": "ت",
     "description": "کلمات با حرف ت",
-    "cardIds": [
-      "te-1",
-      "te-2",
-      "te-3",
-      "te-4",
-      "te-5",
-      "te-6",
-      "te-7",
-      "te-8"
-    ],
     "isCustom": false,
     "order": 4
   },
@@ -76,7 +36,6 @@
     "name": "ث",
     "category": "ث",
     "description": "کلمات با حرف ث",
-    "cardIds": [],
     "isCustom": false,
     "order": 5
   },
@@ -85,16 +44,6 @@
     "name": "ج",
     "category": "ج",
     "description": "کلمات با حرف ج",
-    "cardIds": [
-      "je-1",
-      "je-2",
-      "je-3",
-      "je-4",
-      "je-5",
-      "je-6",
-      "je-7",
-      "je-8"
-    ],
     "isCustom": false,
     "order": 6
   },
@@ -103,7 +52,6 @@
     "name": "چ",
     "category": "چ",
     "description": "کلمات با حرف چ",
-    "cardIds": [],
     "isCustom": false,
     "order": 7
   },
@@ -112,16 +60,6 @@
     "name": "ح",
     "category": "ح",
     "description": "کلمات با حرف ح",
-    "cardIds": [
-      "ha-1",
-      "ha-2",
-      "ha-3",
-      "ha-4",
-      "ha-5",
-      "ha-6",
-      "ha-7",
-      "ha-8"
-    ],
     "isCustom": false,
     "order": 8
   },
@@ -130,16 +68,6 @@
     "name": "خ",
     "category": "خ",
     "description": "کلمات با حرف خ",
-    "cardIds": [
-      "kh-1",
-      "kh-2",
-      "kh-3",
-      "kh-4",
-      "kh-5",
-      "kh-6",
-      "kh-7",
-      "kh-8"
-    ],
     "isCustom": false,
     "order": 9
   },
@@ -148,16 +76,6 @@
     "name": "د",
     "category": "د",
     "description": "کلمات با حرف د",
-    "cardIds": [
-      "dal-1",
-      "dal-2",
-      "dal-3",
-      "dal-4",
-      "dal-5",
-      "dal-6",
-      "dal-7",
-      "dal-8"
-    ],
     "isCustom": false,
     "order": 10
   },
@@ -166,16 +84,6 @@
     "name": "ذ",
     "category": "ذ",
     "description": "کلمات با حرف ذ",
-    "cardIds": [
-      "zal-1",
-      "zal-2",
-      "zal-3",
-      "zal-4",
-      "zal-5",
-      "zal-6",
-      "zal-7",
-      "zal-8"
-    ],
     "isCustom": false,
     "order": 11
   },
@@ -184,16 +92,6 @@
     "name": "ر",
     "category": "ر",
     "description": "کلمات با حرف ر",
-    "cardIds": [
-      "re-1",
-      "re-2",
-      "re-3",
-      "re-4",
-      "re-5",
-      "re-6",
-      "re-7",
-      "re-8"
-    ],
     "isCustom": false,
     "order": 12
   },
@@ -202,16 +100,6 @@
     "name": "ز",
     "category": "ز",
     "description": "کلمات با حرف ز",
-    "cardIds": [
-      "ze-1",
-      "ze-2",
-      "ze-3",
-      "ze-4",
-      "ze-5",
-      "ze-6",
-      "ze-7",
-      "ze-8"
-    ],
     "isCustom": false,
     "order": 32
   },
@@ -220,16 +108,6 @@
     "name": "ژ",
     "category": "ژ",
     "description": "کلمات با حرف ژ",
-    "cardIds": [
-      "zhe-1",
-      "zhe-2",
-      "zhe-3",
-      "zhe-4",
-      "zhe-5",
-      "zhe-6",
-      "zhe-7",
-      "zhe-8"
-    ],
     "isCustom": false,
     "order": 13
   },
@@ -238,16 +116,6 @@
     "name": "س",
     "category": "س",
     "description": "کلمات با حرف س",
-    "cardIds": [
-      "sin-1",
-      "sin-2",
-      "sin-3",
-      "sin-4",
-      "sin-5",
-      "sin-6",
-      "sin-7",
-      "sin-8"
-    ],
     "isCustom": false,
     "order": 14
   },
@@ -256,16 +124,6 @@
     "name": "ش",
     "category": "ش",
     "description": "کلمات با حرف ش",
-    "cardIds": [
-      "shin-1",
-      "shin-2",
-      "shin-3",
-      "shin-4",
-      "shin-5",
-      "shin-6",
-      "shin-7",
-      "shin-8"
-    ],
     "isCustom": false,
     "order": 15
   },
@@ -274,16 +132,6 @@
     "name": "ص",
     "category": "ص",
     "description": "کلمات با حرف ص",
-    "cardIds": [
-      "sah-1",
-      "sah-2",
-      "sah-3",
-      "sah-4",
-      "sah-5",
-      "sah-6",
-      "sah-7",
-      "sah-8"
-    ],
     "isCustom": false,
     "order": 31
   },
@@ -292,16 +140,6 @@
     "name": "ض",
     "category": "ض",
     "description": "کلمات با حرف ض",
-    "cardIds": [
-      "zah-1",
-      "zah-2",
-      "zah-3",
-      "zah-4",
-      "zah-5",
-      "zah-6",
-      "zah-7",
-      "zah-8"
-    ],
     "isCustom": false,
     "order": 16
   },
@@ -310,34 +148,14 @@
     "name": "ط",
     "category": "ط",
     "description": "کلمات با حرف ط",
-    "cardIds": [
-      "tah-1",
-      "tah-2",
-      "tah-3",
-      "tah-4",
-      "tah-5",
-      "tah-6",
-      "tah-7",
-      "tah-8"
-    ],
     "isCustom": false,
     "order": 17
   },
   {
-    "id": "zah",
+    "id": "zahz",
     "name": "ظ",
     "category": "ظ",
     "description": "کلمات با حرف ظ",
-    "cardIds": [
-      "zah-1",
-      "zah-2",
-      "zah-3",
-      "zah-4",
-      "zah-5",
-      "zah-6",
-      "zah-7",
-      "zah-8"
-    ],
     "isCustom": false,
     "order": 18
   },
@@ -346,16 +164,6 @@
     "name": "ع",
     "category": "ع",
     "description": "کلمات با حرف ع",
-    "cardIds": [
-      "ain-1",
-      "ain-2",
-      "ain-3",
-      "ain-4",
-      "ain-5",
-      "ain-6",
-      "ain-7",
-      "ain-8"
-    ],
     "isCustom": false,
     "order": 19
   },
@@ -364,16 +172,6 @@
     "name": "غ",
     "category": "غ",
     "description": "کلمات با حرف غ",
-    "cardIds": [
-      "qain-1",
-      "qain-2",
-      "qain-3",
-      "qain-4",
-      "qain-5",
-      "qain-6",
-      "qain-7",
-      "qain-8"
-    ],
     "isCustom": false,
     "order": 20
   },
@@ -382,16 +180,6 @@
     "name": "ف",
     "category": "ف",
     "description": "کلمات با حرف ف",
-    "cardIds": [
-      "fe-1",
-      "fe-2",
-      "fe-3",
-      "fe-4",
-      "fe-5",
-      "fe-6",
-      "fe-7",
-      "fe-8"
-    ],
     "isCustom": false,
     "order": 21
   },
@@ -400,16 +188,6 @@
     "name": "ق",
     "category": "ق",
     "description": "کلمات با حرف ف",
-    "cardIds": [
-      "qaf-1",
-      "qaf-2",
-      "qaf-3",
-      "qaf-4",
-      "qaf-5",
-      "qaf-6",
-      "qaf-7",
-      "qaf-8"
-    ],
     "isCustom": false,
     "order": 22
   },
@@ -418,16 +196,6 @@
     "name": "ک",
     "category": "ک",
     "description": "کلمات با حرف ک",
-    "cardIds": [
-      "kaf-1",
-      "kaf-2",
-      "kaf-3",
-      "kaf-4",
-      "kaf-5",
-      "kaf-6",
-      "kaf-7",
-      "kaf-8"
-    ],
     "isCustom": false,
     "order": 23
   },
@@ -436,16 +204,6 @@
     "name": "گ",
     "category": "گ",
     "description": "کلمات با حرف گ",
-    "cardIds": [
-      "gaf-1",
-      "gaf-2",
-      "gaf-3",
-      "gaf-4",
-      "gaf-5",
-      "gaf-6",
-      "gaf-7",
-      "gaf-8"
-    ],
     "isCustom": false,
     "order": 24
   },
@@ -454,16 +212,6 @@
     "name": "ل",
     "category": "ل",
     "description": "کلمات با حرف ل",
-    "cardIds": [
-      "lam-1",
-      "lam-2",
-      "lam-3",
-      "lam-4",
-      "lam-5",
-      "lam-6",
-      "lam-7",
-      "lam-8"
-    ],
     "isCustom": false,
     "order": 25
   },
@@ -472,16 +220,6 @@
     "name": "م",
     "category": "م",
     "description": "کلمات با حرف م",
-    "cardIds": [
-      "mim-1",
-      "mim-2",
-      "mim-3",
-      "mim-4",
-      "mim-5",
-      "mim-6",
-      "mim-7",
-      "mim-8"
-    ],
     "isCustom": false,
     "order": 26
   },
@@ -490,16 +228,6 @@
     "name": "ن",
     "category": "ن",
     "description": "کلمات با حرف ن",
-    "cardIds": [
-      "nun-1",
-      "nun-2",
-      "nun-3",
-      "nun-4",
-      "nun-5",
-      "nun-6",
-      "nun-7",
-      "nun-8"
-    ],
     "isCustom": false,
     "order": 30
   },
@@ -508,16 +236,6 @@
     "name": "و",
     "category": "و",
     "description": "کلمات با حرف و",
-    "cardIds": [
-      "vav-1",
-      "vav-2",
-      "vav-3",
-      "vav-4",
-      "vav-5",
-      "vav-6",
-      "vav-7",
-      "vav-8"
-    ],
     "isCustom": false,
     "order": 27
   },
@@ -526,16 +244,6 @@
     "name": "ه",
     "category": "ه",
     "description": "کلمات با حرف ه",
-    "cardIds": [
-      "he-1",
-      "he-2",
-      "he-3",
-      "he-4",
-      "he-5",
-      "he-6",
-      "he-7",
-      "he-8"
-    ],
     "isCustom": false,
     "order": 28
   },
@@ -544,16 +252,6 @@
     "name": "ی",
     "category": "ی",
     "description": "کلمات با حرف ی",
-    "cardIds": [
-      "ye-1",
-      "ye-2",
-      "ye-3",
-      "ye-4",
-      "ye-5",
-      "ye-6",
-      "ye-7",
-      "ye-8"
-    ],
     "isCustom": false,
     "order": 29
   }
