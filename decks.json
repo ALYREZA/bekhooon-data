@@ -152,7 +152,7 @@
     "order": 17
   },
   {
-    "id": "zahz",
+    "id": "zah",
     "name": "ظ",
     "category": "ظ",
     "description": "کلمات با حرف ظ",
@@ -187,7 +187,7 @@
     "id": "qaf",
     "name": "ق",
     "category": "ق",
-    "description": "کلمات با حرف ف",
+    "description": "کلمات با حرف ق",
     "isCustom": false,
     "order": 22
   },
@@ -254,5 +254,61 @@
     "description": "کلمات با حرف ی",
     "isCustom": false,
     "order": 29
+  },
+  {
+    "id": "a",
+    "name": "ا",
+    "category": "ا",
+    "description": "کلمات با حرف ا",
+    "isCustom": false,
+    "order": 1
+  },
+  {
+    "id": "ou",
+    "name": "و",
+    "category": "و",
+    "description": "کلمات با حرف و",
+    "isCustom": false,
+    "order": 27
+  },
+  {
+    "id": "oo",
+    "name": "و",
+    "category": "و",
+    "description": "کلمات با حرف و",
+    "isCustom": false,
+    "order": 27
+  },
+  {
+    "id": "ee",
+    "name": "ی",
+    "category": "ی",
+    "description": "کلمات با حرف ی",
+    "isCustom": false,
+    "order": 29
+  },
+  {
+    "id": "va",
+    "name": "و",
+    "category": "و",
+    "description": "کلمات با حرف و",
+    "isCustom": false,
+    "order": 27
+  },
+  {
+    "id": "zahz",
+    "name": "ظ",
+    "category": "ظ",
+    "description": "کلمات با حرف ظ",
+    "isCustom": false,
+    "order": 18
+  },
+  {
+    "id": "kha",
+    "name": "خ",
+    "category": "خ",
+    "description": "کلمات با حرف خ",
+    "isCustom": false,
+    "order": 9
   }
 ]
