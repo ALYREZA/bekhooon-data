@@ -48,6 +48,78 @@
     "image": "🍭"
   },
   {
+    "id": "alef-9",
+    "word": "ادویه",
+    "deckId": "alef",
+    "image": "🧂"
+  },
+  {
+    "id": "alef-10",
+    "word": "اندازه",
+    "deckId": "alef",
+    "image": "📏"
+  },
+  {
+    "id": "alef-11",
+    "word": "آفتاب",
+    "deckId": "alef",
+    "image": "☀️"
+  },
+  {
+    "id": "alef-12",
+    "word": "آهو",
+    "deckId": "alef",
+    "image": "🦌"
+  },
+  {
+    "id": "alef-13",
+    "word": "انگشت",
+    "deckId": "alef",
+    "image": "🖐️"
+  },
+  {
+    "id": "alef-14",
+    "word": "آتش",
+    "deckId": "alef",
+    "image": "🔥"
+  },
+  {
+    "id": "alef-15",
+    "word": "آدرس",
+    "deckId": "alef",
+    "image": "📮"
+  },
+  {
+    "id": "alef-16",
+    "word": "امید",
+    "deckId": "alef",
+    "image": "🌈"
+  },
+  {
+    "id": "alef-17",
+    "word": "آرامش",
+    "deckId": "alef",
+    "image": "😌"
+  },
+  {
+    "id": "alef-18",
+    "word": "اطلاعات",
+    "deckId": "alef",
+    "image": "ℹ️"
+  },
+  {
+    "id": "alef-19",
+    "word": "آزمایش",
+    "deckId": "alef",
+    "image": "🧪"
+  },
+  {
+    "id": "alef-20",
+    "word": "انسان",
+    "deckId": "alef",
+    "image": "🧍"
+  },
+  {
     "id": "be-1",
     "word": "باد",
     "deckId": "be",
@@ -94,6 +166,78 @@
     "word": "باغچه",
     "deckId": "be",
     "image": "🌱"
+  },
+  {
+    "id": "be-9",
+    "word": "باران",
+    "deckId": "be",
+    "image": "🌧️"
+  },
+  {
+    "id": "be-10",
+    "word": "ببر",
+    "deckId": "be",
+    "image": "🐅"
+  },
+  {
+    "id": "be-11",
+    "word": "بلبل",
+    "deckId": "be",
+    "image": "🐦"
+  },
+  {
+    "id": "be-12",
+    "word": "بام",
+    "deckId": "be",
+    "image": "🏠"
+  },
+  {
+    "id": "be-13",
+    "word": "بشقاب",
+    "deckId": "be",
+    "image": "🍽️"
+  },
+  {
+    "id": "be-14",
+    "word": "بست",
+    "deckId": "be",
+    "image": "🧩"
+  },
+  {
+    "id": "be-15",
+    "word": "بنفشه",
+    "deckId": "be",
+    "image": "🌸"
+  },
+  {
+    "id": "be-16",
+    "word": "بوق",
+    "deckId": "be",
+    "image": "📯"
+  },
+  {
+    "id": "be-17",
+    "word": "بید",
+    "deckId": "be",
+    "image": "🌿"
+  },
+  {
+    "id": "be-18",
+    "word": "بلندگو",
+    "deckId": "be",
+    "image": "🔊"
+  },
+  {
+    "id": "be-19",
+    "word": "بندر",
+    "deckId": "be",
+    "image": "⚓"
+  },
+  {
+    "id": "be-20",
+    "word": "بیمار",
+    "deckId": "be",
+    "image": "🤒"
   },
   {
     "id": "pe-1",
@@ -144,6 +288,78 @@
     "image": "👦"
   },
   {
+    "id": "pe-9",
+    "word": "پازل",
+    "deckId": "pe",
+    "image": "🧩"
+  },
+  {
+    "id": "pe-10",
+    "word": "پای",
+    "deckId": "pe",
+    "image": "🦶"
+  },
+  {
+    "id": "pe-11",
+    "word": "پاک‌کن",
+    "deckId": "pe",
+    "image": "🧽"
+  },
+  {
+    "id": "pe-12",
+    "word": "پز",
+    "deckId": "pe",
+    "image": "👨‍🍳"
+  },
+  {
+    "id": "pe-13",
+    "word": "پر",
+    "deckId": "pe",
+    "image": "🪶"
+  },
+  {
+    "id": "pe-14",
+    "word": "پرتقال",
+    "deckId": "pe",
+    "image": "🍊"
+  },
+  {
+    "id": "pe-15",
+    "word": "پله",
+    "deckId": "pe",
+    "image": "🪜"
+  },
+  {
+    "id": "pe-16",
+    "word": "پستان",
+    "deckId": "pe",
+    "image": "🐄"
+  },
+  {
+    "id": "pe-17",
+    "word": "پشمالو",
+    "deckId": "pe",
+    "image": "🐑"
+  },
+  {
+    "id": "pe-18",
+    "word": "پلنگ",
+    "deckId": "pe",
+    "image": "🐆"
+  },
+  {
+    "id": "pe-19",
+    "word": "پرچم",
+    "deckId": "pe",
+    "image": "🚩"
+  },
+  {
+    "id": "pe-20",
+    "word": "پیاده",
+    "deckId": "pe",
+    "image": "🚶"
+  },
+  {
     "id": "te-1",
     "word": "تخت",
     "deckId": "te",
@@ -190,6 +406,78 @@
     "word": "توت فرنگی",
     "deckId": "te",
     "image": "🍓"
+  },
+  {
+    "id": "te-9",
+    "word": "تمرین",
+    "deckId": "te",
+    "image": "✏️"
+  },
+  {
+    "id": "te-10",
+    "word": "تار",
+    "deckId": "te",
+    "image": "🕸️"
+  },
+  {
+    "id": "te-11",
+    "word": "تاکسی",
+    "deckId": "te",
+    "image": "🚕"
+  },
+  {
+    "id": "te-12",
+    "word": "تبر",
+    "deckId": "te",
+    "image": "🪓"
+  },
+  {
+    "id": "te-13",
+    "word": "تب",
+    "deckId": "te",
+    "image": "🤒"
+  },
+  {
+    "id": "te-14",
+    "word": "تسمه",
+    "deckId": "te",
+    "image": "🪢"
+  },
+  {
+    "id": "te-15",
+    "word": "تمساح",
+    "deckId": "te",
+    "image": "🐊"
+  },
+  {
+    "id": "te-16",
+    "word": "تنور",
+    "deckId": "te",
+    "image": "🔥"
+  },
+  {
+    "id": "te-17",
+    "word": "توان",
+    "deckId": "te",
+    "image": "💪"
+  },
+  {
+    "id": "te-18",
+    "word": "تبریزی",
+    "deckId": "te",
+    "image": "🏙️"
+  },
+  {
+    "id": "te-19",
+    "word": "تخته‌سیاه",
+    "deckId": "te",
+    "image": "🖍️"
+  },
+  {
+    "id": "te-20",
+    "word": "تاج",
+    "deckId": "te",
+    "image": "👑"
   },
   {
     "id": "je-1",
@@ -240,6 +528,78 @@
     "image": "👖"
   },
   {
+    "id": "je-9",
+    "word": "جارو",
+    "deckId": "je",
+    "image": "🧹"
+  },
+  {
+    "id": "je-10",
+    "word": "جانور",
+    "deckId": "je",
+    "image": "🐾"
+  },
+  {
+    "id": "je-11",
+    "word": "جشن",
+    "deckId": "je",
+    "image": "🎉"
+  },
+  {
+    "id": "je-12",
+    "word": "جو",
+    "deckId": "je",
+    "image": "🌾"
+  },
+  {
+    "id": "je-13",
+    "word": "جواهر",
+    "deckId": "je",
+    "image": "💎"
+  },
+  {
+    "id": "je-14",
+    "word": "جغد",
+    "deckId": "je",
+    "image": "🦉"
+  },
+  {
+    "id": "je-15",
+    "word": "جزیره",
+    "deckId": "je",
+    "image": "🏝️"
+  },
+  {
+    "id": "je-16",
+    "word": "جمله",
+    "deckId": "je",
+    "image": "💬"
+  },
+  {
+    "id": "je-17",
+    "word": "جنگ",
+    "deckId": "je",
+    "image": "⚔️"
+  },
+  {
+    "id": "je-18",
+    "word": "جوش",
+    "deckId": "je",
+    "image": "🔥"
+  },
+  {
+    "id": "je-19",
+    "word": "جاروبرقی",
+    "deckId": "je",
+    "image": "🧽"
+  },
+  {
+    "id": "je-20",
+    "word": "جفت",
+    "deckId": "je",
+    "image": "👟"
+  },
+  {
     "id": "dal-1",
     "word": "درخت",
     "deckId": "dal",
@@ -286,6 +646,78 @@
     "word": "دوربین",
     "deckId": "dal",
     "image": "📷"
+  },
+  {
+    "id": "dal-9",
+    "word": "در",
+    "deckId": "dal",
+    "image": "🚪"
+  },
+  {
+    "id": "dal-10",
+    "word": "دفتر",
+    "deckId": "dal",
+    "image": "📒"
+  },
+  {
+    "id": "dal-11",
+    "word": "دسته",
+    "deckId": "dal",
+    "image": "🪵"
+  },
+  {
+    "id": "dal-12",
+    "word": "دلقک",
+    "deckId": "dal",
+    "image": "🤡"
+  },
+  {
+    "id": "dal-13",
+    "word": "داستان",
+    "deckId": "dal",
+    "image": "📚"
+  },
+  {
+    "id": "dal-14",
+    "word": "دکمه",
+    "deckId": "dal",
+    "image": "🔘"
+  },
+  {
+    "id": "dal-15",
+    "word": "دود",
+    "deckId": "dal",
+    "image": "💨"
+  },
+  {
+    "id": "dal-16",
+    "word": "دور",
+    "deckId": "dal",
+    "image": "⭕"
+  },
+  {
+    "id": "dal-17",
+    "word": "دعوت",
+    "deckId": "dal",
+    "image": "💌"
+  },
+  {
+    "id": "dal-18",
+    "word": "دلیل",
+    "deckId": "dal",
+    "image": "🧠"
+  },
+  {
+    "id": "dal-19",
+    "word": "دخمه",
+    "deckId": "dal",
+    "image": "🏚️"
+  },
+  {
+    "id": "dal-20",
+    "word": "دوچرخه",
+    "deckId": "dal",
+    "image": "🚴"
   },
   {
     "id": "re-1",
@@ -336,6 +768,54 @@
     "image": "🌈"
   },
   {
+    "id": "re-9",
+    "word": "رس",
+    "deckId": "re",
+    "image": "🪨"
+  },
+  {
+    "id": "re-10",
+    "word": "رود",
+    "deckId": "re",
+    "image": "🌊"
+  },
+  {
+    "id": "re-11",
+    "word": "رخت",
+    "deckId": "re",
+    "image": "👕"
+  },
+  {
+    "id": "re-12",
+    "word": "رفتن",
+    "deckId": "re",
+    "image": "🚶"
+  },
+  {
+    "id": "re-13",
+    "word": "رسانه",
+    "deckId": "re",
+    "image": "📰"
+  },
+  {
+    "id": "re-14",
+    "word": "رستوران",
+    "deckId": "re",
+    "image": "🍽️"
+  },
+  {
+    "id": "re-15",
+    "word": "رادیو",
+    "deckId": "re",
+    "image": "📻"
+  },
+  {
+    "id": "re-16",
+    "word": "ریشه",
+    "deckId": "re",
+    "image": "🌱"
+  },
+  {
     "id": "sin-1",
     "word": "سگ",
     "deckId": "sin",
@@ -382,6 +862,78 @@
     "word": "سنجاب",
     "deckId": "sin",
     "image": "🐿️"
+  },
+  {
+    "id": "sin-9",
+    "word": "سوزن",
+    "deckId": "sin",
+    "image": "🪡"
+  },
+  {
+    "id": "sin-10",
+    "word": "سیر",
+    "deckId": "sin",
+    "image": "🧄"
+  },
+  {
+    "id": "sin-11",
+    "word": "سیاره",
+    "deckId": "sin",
+    "image": "🪐"
+  },
+  {
+    "id": "sin-12",
+    "word": "سبز",
+    "deckId": "sin",
+    "image": "🟩"
+  },
+  {
+    "id": "sin-13",
+    "word": "سوار",
+    "deckId": "sin",
+    "image": "🏇"
+  },
+  {
+    "id": "sin-14",
+    "word": "سقف",
+    "deckId": "sin",
+    "image": "🏠"
+  },
+  {
+    "id": "sin-15",
+    "word": "سهم",
+    "deckId": "sin",
+    "image": "📊"
+  },
+  {
+    "id": "sin-16",
+    "word": "سفر",
+    "deckId": "sin",
+    "image": "🧳"
+  },
+  {
+    "id": "sin-17",
+    "word": "سر",
+    "deckId": "sin",
+    "image": "🙂"
+  },
+  {
+    "id": "sin-18",
+    "word": "سالاد",
+    "deckId": "sin",
+    "image": "🥗"
+  },
+  {
+    "id": "sin-19",
+    "word": "سبزه",
+    "deckId": "sin",
+    "image": "🌿"
+  },
+  {
+    "id": "sin-20",
+    "word": "ساحل",
+    "deckId": "sin",
+    "image": "🏖️"
   },
   {
     "id": "shin-1",
@@ -432,6 +984,78 @@
     "image": "🕸️"
   },
   {
+    "id": "shin-9",
+    "word": "شکوفه",
+    "deckId": "shin",
+    "image": "🌸"
+  },
+  {
+    "id": "shin-10",
+    "word": "شانهٔ تخم‌مرغ",
+    "deckId": "shin",
+    "image": "🧺"
+  },
+  {
+    "id": "shin-11",
+    "word": "شراب‌پاش",
+    "deckId": "shin",
+    "image": "💦"
+  },
+  {
+    "id": "shin-12",
+    "word": "شاخه",
+    "deckId": "shin",
+    "image": "🌿"
+  },
+  {
+    "id": "shin-13",
+    "word": "شکار",
+    "deckId": "shin",
+    "image": "🏹"
+  },
+  {
+    "id": "shin-14",
+    "word": "شمشیر",
+    "deckId": "shin",
+    "image": "⚔️"
+  },
+  {
+    "id": "shin-15",
+    "word": "شکلات",
+    "deckId": "shin",
+    "image": "🍫"
+  },
+  {
+    "id": "shin-16",
+    "word": "شمعدان",
+    "deckId": "shin",
+    "image": "🕯️"
+  },
+  {
+    "id": "shin-17",
+    "word": "شعبه",
+    "deckId": "shin",
+    "image": "🏢"
+  },
+  {
+    "id": "shin-18",
+    "word": "شن",
+    "deckId": "shin",
+    "image": "🏖️"
+  },
+  {
+    "id": "shin-19",
+    "word": "شعار",
+    "deckId": "shin",
+    "image": "📢"
+  },
+  {
+    "id": "shin-20",
+    "word": "شنا",
+    "deckId": "shin",
+    "image": "🏊"
+  },
+  {
     "id": "fe-1",
     "word": "فیل",
     "deckId": "fe",
@@ -478,6 +1102,78 @@
     "word": "فنجان",
     "deckId": "fe",
     "image": "☕"
+  },
+  {
+    "id": "fe-9",
+    "word": "فرش",
+    "deckId": "fe",
+    "image": "🧶"
+  },
+  {
+    "id": "fe-10",
+    "word": "فندق",
+    "deckId": "fe",
+    "image": "🌰"
+  },
+  {
+    "id": "fe-11",
+    "word": "فلوت",
+    "deckId": "fe",
+    "image": "📯"
+  },
+  {
+    "id": "fe-12",
+    "word": "فکر",
+    "deckId": "fe",
+    "image": "💭"
+  },
+  {
+    "id": "fe-13",
+    "word": "فیلتر",
+    "deckId": "fe",
+    "image": "🪣"
+  },
+  {
+    "id": "fe-14",
+    "word": "فرد",
+    "deckId": "fe",
+    "image": "🧍"
+  },
+  {
+    "id": "fe-15",
+    "word": "فرودگاه",
+    "deckId": "fe",
+    "image": "🛫"
+  },
+  {
+    "id": "fe-16",
+    "word": "فلامینگو",
+    "deckId": "fe",
+    "image": "🦩"
+  },
+  {
+    "id": "fe-17",
+    "word": "فرمان",
+    "deckId": "fe",
+    "image": "🕹️"
+  },
+  {
+    "id": "fe-18",
+    "word": "فلفل",
+    "deckId": "fe",
+    "image": "🌶️"
+  },
+  {
+    "id": "fe-19",
+    "word": "فلز",
+    "deckId": "fe",
+    "image": "🔩"
+  },
+  {
+    "id": "fe-20",
+    "word": "فشار",
+    "deckId": "fe",
+    "image": "💢"
   },
   {
     "id": "kaf-1",
@@ -528,6 +1224,78 @@
     "image": "🐞"
   },
   {
+    "id": "kaf-9",
+    "word": "کاغذ",
+    "deckId": "kaf",
+    "image": "📄"
+  },
+  {
+    "id": "kaf-10",
+    "word": "کراوات",
+    "deckId": "kaf",
+    "image": "👔"
+  },
+  {
+    "id": "kaf-11",
+    "word": "کلاس",
+    "deckId": "kaf",
+    "image": "🏫"
+  },
+  {
+    "id": "kaf-12",
+    "word": "کوزه",
+    "deckId": "kaf",
+    "image": "🏺"
+  },
+  {
+    "id": "kaf-13",
+    "word": "کرم",
+    "deckId": "kaf",
+    "image": "🪱"
+  },
+  {
+    "id": "kaf-14",
+    "word": "کلاغ",
+    "deckId": "kaf",
+    "image": "🐦‍⬛"
+  },
+  {
+    "id": "kaf-15",
+    "word": "کارد",
+    "deckId": "kaf",
+    "image": "🔪"
+  },
+  {
+    "id": "kaf-16",
+    "word": "کت",
+    "deckId": "kaf",
+    "image": "🧥"
+  },
+  {
+    "id": "kaf-17",
+    "word": "کلوچه",
+    "deckId": "kaf",
+    "image": "🍪"
+  },
+  {
+    "id": "kaf-18",
+    "word": "کاشی",
+    "deckId": "kaf",
+    "image": "🧱"
+  },
+  {
+    "id": "kaf-19",
+    "word": "کمک",
+    "deckId": "kaf",
+    "image": "🆘"
+  },
+  {
+    "id": "kaf-20",
+    "word": "کانگورو",
+    "deckId": "kaf",
+    "image": "🦘"
+  },
+  {
     "id": "gaf-1",
     "word": "گربه",
     "deckId": "gaf",
@@ -574,6 +1342,78 @@
     "word": "گوشت",
     "deckId": "gaf",
     "image": "🥩"
+  },
+  {
+    "id": "gaf-9",
+    "word": "گیتار",
+    "deckId": "gaf",
+    "image": "🎸"
+  },
+  {
+    "id": "gaf-10",
+    "word": "گردو",
+    "deckId": "gaf",
+    "image": "🌰"
+  },
+  {
+    "id": "gaf-11",
+    "word": "گاری",
+    "deckId": "gaf",
+    "image": "🛒"
+  },
+  {
+    "id": "gaf-12",
+    "word": "گنبد",
+    "deckId": "gaf",
+    "image": "🕌"
+  },
+  {
+    "id": "gaf-13",
+    "word": "گلوله",
+    "deckId": "gaf",
+    "image": "🔵"
+  },
+  {
+    "id": "gaf-14",
+    "word": "گوسفند",
+    "deckId": "gaf",
+    "image": "🐑"
+  },
+  {
+    "id": "gaf-15",
+    "word": "گودال",
+    "deckId": "gaf",
+    "image": "🕳️"
+  },
+  {
+    "id": "gaf-16",
+    "word": "گرگ",
+    "deckId": "gaf",
+    "image": "🐺"
+  },
+  {
+    "id": "gaf-17",
+    "word": "گچ",
+    "deckId": "gaf",
+    "image": "🧱"
+  },
+  {
+    "id": "gaf-18",
+    "word": "گلابی",
+    "deckId": "gaf",
+    "image": "🍐"
+  },
+  {
+    "id": "gaf-19",
+    "word": "گیاه",
+    "deckId": "gaf",
+    "image": "🌿"
+  },
+  {
+    "id": "gaf-20",
+    "word": "گود",
+    "deckId": "gaf",
+    "image": "⬇️"
   },
   {
     "id": "mim-1",
@@ -624,6 +1464,78 @@
     "image": "🍎"
   },
   {
+    "id": "mim-9",
+    "word": "مار",
+    "deckId": "mim",
+    "image": "🐍"
+  },
+  {
+    "id": "mim-10",
+    "word": "مسواک",
+    "deckId": "mim",
+    "image": "🪥"
+  },
+  {
+    "id": "mim-11",
+    "word": "میخ",
+    "deckId": "mim",
+    "image": "📌"
+  },
+  {
+    "id": "mim-12",
+    "word": "مرغ",
+    "deckId": "mim",
+    "image": "🐔"
+  },
+  {
+    "id": "mim-13",
+    "word": "مرکز",
+    "deckId": "mim",
+    "image": "🎯"
+  },
+  {
+    "id": "mim-14",
+    "word": "مسجد",
+    "deckId": "mim",
+    "image": "🕌"
+  },
+  {
+    "id": "mim-15",
+    "word": "موز",
+    "deckId": "mim",
+    "image": "🍌"
+  },
+  {
+    "id": "mim-16",
+    "word": "منطقه",
+    "deckId": "mim",
+    "image": "🗺️"
+  },
+  {
+    "id": "mim-17",
+    "word": "مژه",
+    "deckId": "mim",
+    "image": "👁️"
+  },
+  {
+    "id": "mim-18",
+    "word": "مرد",
+    "deckId": "mim",
+    "image": "🧍‍♂️"
+  },
+  {
+    "id": "mim-19",
+    "word": "موزه",
+    "deckId": "mim",
+    "image": "🏛️"
+  },
+  {
+    "id": "mim-20",
+    "word": "مو",
+    "deckId": "mim",
+    "image": "💇"
+  },
+  {
     "id": "nun-1",
     "word": "نان",
     "deckId": "nun",
@@ -670,6 +1582,78 @@
     "word": "نخ",
     "deckId": "nun",
     "image": "🧵"
+  },
+  {
+    "id": "nun-9",
+    "word": "نسیم",
+    "deckId": "nun",
+    "image": "💨"
+  },
+  {
+    "id": "nun-10",
+    "word": "نمک",
+    "deckId": "nun",
+    "image": "🧂"
+  },
+  {
+    "id": "nun-11",
+    "word": "نهنگ",
+    "deckId": "nun",
+    "image": "🐋"
+  },
+  {
+    "id": "nun-12",
+    "word": "نقشه",
+    "deckId": "nun",
+    "image": "🗺️"
+  },
+  {
+    "id": "nun-13",
+    "word": "نوازنده",
+    "deckId": "nun",
+    "image": "🎻"
+  },
+  {
+    "id": "nun-14",
+    "word": "نوسان",
+    "deckId": "nun",
+    "image": "🔄"
+  },
+  {
+    "id": "nun-15",
+    "word": "نخل",
+    "deckId": "nun",
+    "image": "🌴"
+  },
+  {
+    "id": "nun-16",
+    "word": "نهر",
+    "deckId": "nun",
+    "image": "🌊"
+  },
+  {
+    "id": "nun-17",
+    "word": "نرگس",
+    "deckId": "nun",
+    "image": "🌼"
+  },
+  {
+    "id": "nun-18",
+    "word": "نقاره",
+    "deckId": "nun",
+    "image": "🥁"
+  },
+  {
+    "id": "nun-19",
+    "word": "نیش",
+    "deckId": "nun",
+    "image": "🐝"
+  },
+  {
+    "id": "nun-20",
+    "word": "نوع",
+    "deckId": "nun",
+    "image": "🔢"
   },
   {
     "id": "vav-1",
@@ -720,6 +1704,78 @@
     "image": "⚖️"
   },
   {
+    "id": "vav-9",
+    "word": "وارونه",
+    "deckId": "vav",
+    "image": "🔄"
+  },
+  {
+    "id": "vav-10",
+    "word": "والیبال",
+    "deckId": "vav",
+    "image": "🏐"
+  },
+  {
+    "id": "vav-11",
+    "word": "وجود",
+    "deckId": "vav",
+    "image": "✨"
+  },
+  {
+    "id": "vav-12",
+    "word": "وام",
+    "deckId": "vav",
+    "image": "💵"
+  },
+  {
+    "id": "vav-13",
+    "word": "ویروس",
+    "deckId": "vav",
+    "image": "🦠"
+  },
+  {
+    "id": "vav-14",
+    "word": "وزیر",
+    "deckId": "vav",
+    "image": "🧑‍💼"
+  },
+  {
+    "id": "vav-15",
+    "word": "وحش",
+    "deckId": "vav",
+    "image": "🐅"
+  },
+  {
+    "id": "vav-16",
+    "word": "واگن",
+    "deckId": "vav",
+    "image": "🚃"
+  },
+  {
+    "id": "vav-17",
+    "word": "وفادار",
+    "deckId": "vav",
+    "image": "🤝"
+  },
+  {
+    "id": "vav-18",
+    "word": "وعده",
+    "deckId": "vav",
+    "image": "🍽️"
+  },
+  {
+    "id": "vav-19",
+    "word": "ولگرد",
+    "deckId": "vav",
+    "image": "🚶‍♂️"
+  },
+  {
+    "id": "vav-20",
+    "word": "وینا",
+    "deckId": "vav",
+    "image": "🎶"
+  },
+  {
     "id": "he-1",
     "word": "خانه",
     "deckId": "he",
@@ -766,6 +1822,78 @@
     "word": "هفت",
     "deckId": "he",
     "image": "7️⃣"
+  },
+  {
+    "id": "he-9",
+    "word": "هسته",
+    "deckId": "he",
+    "image": "🌰"
+  },
+  {
+    "id": "he-10",
+    "word": "هدف",
+    "deckId": "he",
+    "image": "🎯"
+  },
+  {
+    "id": "he-11",
+    "word": "هندوانه",
+    "deckId": "he",
+    "image": "🍉"
+  },
+  {
+    "id": "he-12",
+    "word": "هستی",
+    "deckId": "he",
+    "image": "✨"
+  },
+  {
+    "id": "he-13",
+    "word": "هاله",
+    "deckId": "he",
+    "image": "🌕"
+  },
+  {
+    "id": "he-14",
+    "word": "هیزم",
+    "deckId": "he",
+    "image": "🪵"
+  },
+  {
+    "id": "he-15",
+    "word": "هشدار",
+    "deckId": "he",
+    "image": "⚠️"
+  },
+  {
+    "id": "he-16",
+    "word": "هیزم‌دان",
+    "deckId": "he",
+    "image": "🪓"
+  },
+  {
+    "id": "he-17",
+    "word": "همه",
+    "deckId": "he",
+    "image": "👥"
+  },
+  {
+    "id": "he-18",
+    "word": "همراه",
+    "deckId": "he",
+    "image": "📱"
+  },
+  {
+    "id": "he-19",
+    "word": "هنر",
+    "deckId": "he",
+    "image": "🎨"
+  },
+  {
+    "id": "he-20",
+    "word": "هتل",
+    "deckId": "he",
+    "image": "🏨"
   },
   {
     "id": "ye-1",
@@ -816,6 +1944,78 @@
     "image": "🧊"
   },
   {
+    "id": "ye-9",
+    "word": "یادداشت",
+    "deckId": "ye",
+    "image": "📝"
+  },
+  {
+    "id": "ye-10",
+    "word": "یاشار",
+    "deckId": "ye",
+    "image": "🧒"
+  },
+  {
+    "id": "ye-11",
+    "word": "یاقوت",
+    "deckId": "ye",
+    "image": "💎"
+  },
+  {
+    "id": "ye-12",
+    "word": "یاری",
+    "deckId": "ye",
+    "image": "🤝"
+  },
+  {
+    "id": "ye-13",
+    "word": "یائسگی",
+    "deckId": "ye",
+    "image": "⚕️"
+  },
+  {
+    "id": "ye-14",
+    "word": "یادگار",
+    "deckId": "ye",
+    "image": "🎁"
+  },
+  {
+    "id": "ye-15",
+    "word": "یان",
+    "deckId": "ye",
+    "image": "👦"
+  },
+  {
+    "id": "ye-16",
+    "word": "یگانه",
+    "deckId": "ye",
+    "image": "🌟"
+  },
+  {
+    "id": "ye-17",
+    "word": "یال",
+    "deckId": "ye",
+    "image": "🦁"
+  },
+  {
+    "id": "ye-18",
+    "word": "یورش",
+    "deckId": "ye",
+    "image": "⚔️"
+  },
+  {
+    "id": "ye-19",
+    "word": "یوسف",
+    "deckId": "ye",
+    "image": "🧑"
+  },
+  {
+    "id": "ye-20",
+    "word": "یکتا",
+    "deckId": "ye",
+    "image": "🌈"
+  },
+  {
     "id": "a-1",
     "word": "ابر",
     "deckId": "a",
@@ -862,6 +2062,78 @@
     "word": "ادم",
     "deckId": "a",
     "image": "👤"
+  },
+  {
+    "id": "a-9",
+    "word": "اره",
+    "deckId": "a",
+    "image": "🪚"
+  },
+  {
+    "id": "a-10",
+    "word": "اسم",
+    "deckId": "a",
+    "image": "🔤"
+  },
+  {
+    "id": "a-11",
+    "word": "اله",
+    "deckId": "a",
+    "image": "✨"
+  },
+  {
+    "id": "a-12",
+    "word": "ابرک",
+    "deckId": "a",
+    "image": "⛅"
+  },
+  {
+    "id": "a-13",
+    "word": "آرام",
+    "deckId": "a",
+    "image": "😌"
+  },
+  {
+    "id": "a-14",
+    "word": "آزاد",
+    "deckId": "a",
+    "image": "🕊️"
+  },
+  {
+    "id": "a-15",
+    "word": "آمار",
+    "deckId": "a",
+    "image": "📊"
+  },
+  {
+    "id": "a-16",
+    "word": "آمر",
+    "deckId": "a",
+    "image": "📢"
+  },
+  {
+    "id": "a-17",
+    "word": "آهو",
+    "deckId": "a",
+    "image": "🦌"
+  },
+  {
+    "id": "a-18",
+    "word": "آینه",
+    "deckId": "a",
+    "image": "🪞"
+  },
+  {
+    "id": "a-19",
+    "word": "اکبر",
+    "deckId": "a",
+    "image": "🧑"
+  },
+  {
+    "id": "a-20",
+    "word": "آباد",
+    "deckId": "a",
+    "image": "🌆"
   },
   {
     "id": "ou-1",
@@ -912,6 +2184,78 @@
     "image": "🔵"
   },
   {
+    "id": "ou-9",
+    "word": "اوز",
+    "deckId": "ou",
+    "image": "🦢"
+  },
+  {
+    "id": "ou-10",
+    "word": "اوک",
+    "deckId": "ou",
+    "image": "🧱"
+  },
+  {
+    "id": "ou-11",
+    "word": "اوگ",
+    "deckId": "ou",
+    "image": "🪨"
+  },
+  {
+    "id": "ou-12",
+    "word": "اول",
+    "deckId": "ou",
+    "image": "1️⃣"
+  },
+  {
+    "id": "ou-13",
+    "word": "اوژ",
+    "deckId": "ou",
+    "image": "❔"
+  },
+  {
+    "id": "ou-14",
+    "word": "اوکٰا",
+    "deckId": "ou",
+    "image": "🧩"
+  },
+  {
+    "id": "ou-15",
+    "word": "اورا",
+    "deckId": "ou",
+    "image": "✨"
+  },
+  {
+    "id": "ou-16",
+    "word": "اولو",
+    "deckId": "ou",
+    "image": "🌟"
+  },
+  {
+    "id": "ou-17",
+    "word": "اوش",
+    "deckId": "ou",
+    "image": "🌀"
+  },
+  {
+    "id": "ou-18",
+    "word": "اوه",
+    "deckId": "ou",
+    "image": "😮"
+  },
+  {
+    "id": "ou-19",
+    "word": "اوید",
+    "deckId": "ou",
+    "image": "🧠"
+  },
+  {
+    "id": "ou-20",
+    "word": "اوره",
+    "deckId": "ou",
+    "image": "💫"
+  },
+  {
     "id": "oo-1",
     "word": "اوما",
     "deckId": "oo",
@@ -958,6 +2302,78 @@
     "word": "اوسان",
     "deckId": "oo",
     "image": "🙂"
+  },
+  {
+    "id": "oo-9",
+    "word": "اوجا",
+    "deckId": "oo",
+    "image": "📍"
+  },
+  {
+    "id": "oo-10",
+    "word": "اوکام",
+    "deckId": "oo",
+    "image": "🧱"
+  },
+  {
+    "id": "oo-11",
+    "word": "اوگان",
+    "deckId": "oo",
+    "image": "🌿"
+  },
+  {
+    "id": "oo-12",
+    "word": "اوپار",
+    "deckId": "oo",
+    "image": "➡️"
+  },
+  {
+    "id": "oo-13",
+    "word": "اوکامِ",
+    "deckId": "oo",
+    "image": "📦"
+  },
+  {
+    "id": "oo-14",
+    "word": "اوبار",
+    "deckId": "oo",
+    "image": "📦"
+  },
+  {
+    "id": "oo-15",
+    "word": "اووام",
+    "deckId": "oo",
+    "image": "🙂"
+  },
+  {
+    "id": "oo-16",
+    "word": "اوژان",
+    "deckId": "oo",
+    "image": "❔"
+  },
+  {
+    "id": "oo-17",
+    "word": "اوکار",
+    "deckId": "oo",
+    "image": "🔧"
+  },
+  {
+    "id": "oo-18",
+    "word": "اوگانِ",
+    "deckId": "oo",
+    "image": "🌱"
+  },
+  {
+    "id": "oo-19",
+    "word": "اودار",
+    "deckId": "oo",
+    "image": "💬"
+  },
+  {
+    "id": "oo-20",
+    "word": "اوپاش",
+    "deckId": "oo",
+    "image": "💫"
   },
   {
     "id": "ee-1",
@@ -1008,6 +2424,78 @@
     "image": "➡️"
   },
   {
+    "id": "ee-9",
+    "word": "ایگار",
+    "deckId": "ee",
+    "image": "🌿"
+  },
+  {
+    "id": "ee-10",
+    "word": "ایمان",
+    "deckId": "ee",
+    "image": "✨"
+  },
+  {
+    "id": "ee-11",
+    "word": "ایسامِ",
+    "deckId": "ee",
+    "image": "🙂"
+  },
+  {
+    "id": "ee-12",
+    "word": "ایوار",
+    "deckId": "ee",
+    "image": "🌅"
+  },
+  {
+    "id": "ee-13",
+    "word": "ایکار",
+    "deckId": "ee",
+    "image": "🔧"
+  },
+  {
+    "id": "ee-14",
+    "word": "ایبار",
+    "deckId": "ee",
+    "image": "📦"
+  },
+  {
+    "id": "ee-15",
+    "word": "ایمار",
+    "deckId": "ee",
+    "image": "👤"
+  },
+  {
+    "id": "ee-16",
+    "word": "ایواس",
+    "deckId": "ee",
+    "image": "💬"
+  },
+  {
+    "id": "ee-17",
+    "word": "ایراد",
+    "deckId": "ee",
+    "image": "❗"
+  },
+  {
+    "id": "ee-18",
+    "word": "ایوان",
+    "deckId": "ee",
+    "image": "🏛️"
+  },
+  {
+    "id": "ee-19",
+    "word": "ایدار",
+    "deckId": "ee",
+    "image": "🧠"
+  },
+  {
+    "id": "ee-20",
+    "word": "ایکارا",
+    "deckId": "ee",
+    "image": "⭐"
+  },
+  {
     "id": "va-1",
     "word": "وما",
     "deckId": "va",
@@ -1052,6 +2540,78 @@
   {
     "id": "va-8",
     "word": "وداش",
+    "deckId": "va",
+    "image": "🙂"
+  },
+  {
+    "id": "va-9",
+    "word": "وکار",
+    "deckId": "va",
+    "image": "🔧"
+  },
+  {
+    "id": "va-10",
+    "word": "وگان",
+    "deckId": "va",
+    "image": "🌿"
+  },
+  {
+    "id": "va-11",
+    "word": "وراما",
+    "deckId": "va",
+    "image": "🙂"
+  },
+  {
+    "id": "va-12",
+    "word": "وپار",
+    "deckId": "va",
+    "image": "➡️"
+  },
+  {
+    "id": "va-13",
+    "word": "وژان",
+    "deckId": "va",
+    "image": "❔"
+  },
+  {
+    "id": "va-14",
+    "word": "وماس",
+    "deckId": "va",
+    "image": "🤲"
+  },
+  {
+    "id": "va-15",
+    "word": "ودان",
+    "deckId": "va",
+    "image": "📄"
+  },
+  {
+    "id": "va-16",
+    "word": "وسان",
+    "deckId": "va",
+    "image": "🙂"
+  },
+  {
+    "id": "va-17",
+    "word": "وگام",
+    "deckId": "va",
+    "image": "📦"
+  },
+  {
+    "id": "va-18",
+    "word": "وپارم",
+    "deckId": "va",
+    "image": "➡️"
+  },
+  {
+    "id": "va-19",
+    "word": "ودیم",
+    "deckId": "va",
+    "image": "📄"
+  },
+  {
+    "id": "va-20",
+    "word": "ومانم",
     "deckId": "va",
     "image": "🙂"
   },
@@ -1104,6 +2664,78 @@
     "image": "🙏"
   },
   {
+    "id": "kh-9",
+    "word": "خاک",
+    "deckId": "kh",
+    "image": "🪨"
+  },
+  {
+    "id": "kh-10",
+    "word": "خواست",
+    "deckId": "kh",
+    "image": "🙏"
+  },
+  {
+    "id": "kh-11",
+    "word": "خوش",
+    "deckId": "kh",
+    "image": "😊"
+  },
+  {
+    "id": "kh-12",
+    "word": "خوب",
+    "deckId": "kh",
+    "image": "👍"
+  },
+  {
+    "id": "kh-13",
+    "word": "خیمه",
+    "deckId": "kh",
+    "image": "⛺"
+  },
+  {
+    "id": "kh-14",
+    "word": "خروس",
+    "deckId": "kh",
+    "image": "🐓"
+  },
+  {
+    "id": "kh-15",
+    "word": "خرما",
+    "deckId": "kh",
+    "image": "🌴"
+  },
+  {
+    "id": "kh-16",
+    "word": "خنده",
+    "deckId": "kh",
+    "image": "😄"
+  },
+  {
+    "id": "kh-17",
+    "word": "خمیر",
+    "deckId": "kh",
+    "image": "🍞"
+  },
+  {
+    "id": "kh-18",
+    "word": "خمیره",
+    "deckId": "kh",
+    "image": "🫓"
+  },
+  {
+    "id": "kh-19",
+    "word": "خواب",
+    "deckId": "kh",
+    "image": "😴"
+  },
+  {
+    "id": "kh-20",
+    "word": "خیاط",
+    "deckId": "kh",
+    "image": "🧵"
+  },
+  {
     "id": "qaf-1",
     "word": "قار",
     "deckId": "qaf",
@@ -1150,6 +2782,78 @@
     "word": "قانم",
     "deckId": "qaf",
     "image": "🙂"
+  },
+  {
+    "id": "qaf-9",
+    "word": "قاب",
+    "deckId": "qaf",
+    "image": "🖼️"
+  },
+  {
+    "id": "qaf-10",
+    "word": "قارچ",
+    "deckId": "qaf",
+    "image": "🍄"
+  },
+  {
+    "id": "qaf-11",
+    "word": "قلب",
+    "deckId": "qaf",
+    "image": "❤️"
+  },
+  {
+    "id": "qaf-12",
+    "word": "قفل",
+    "deckId": "qaf",
+    "image": "🔒"
+  },
+  {
+    "id": "qaf-13",
+    "word": "قلم",
+    "deckId": "qaf",
+    "image": "✏️"
+  },
+  {
+    "id": "qaf-14",
+    "word": "قوس",
+    "deckId": "qaf",
+    "image": "🌈"
+  },
+  {
+    "id": "qaf-15",
+    "word": "قوم",
+    "deckId": "qaf",
+    "image": "👥"
+  },
+  {
+    "id": "qaf-16",
+    "word": "قهر",
+    "deckId": "qaf",
+    "image": "😠"
+  },
+  {
+    "id": "qaf-17",
+    "word": "قاضی",
+    "deckId": "qaf",
+    "image": "⚖️"
+  },
+  {
+    "id": "qaf-18",
+    "word": "قدم",
+    "deckId": "qaf",
+    "image": "🚶‍♂️"
+  },
+  {
+    "id": "qaf-19",
+    "word": "قورباغه",
+    "deckId": "qaf",
+    "image": "🐸"
+  },
+  {
+    "id": "qaf-20",
+    "word": "قوری",
+    "deckId": "qaf",
+    "image": "🫖"
   },
   {
     "id": "che-1",
@@ -1200,6 +2904,78 @@
     "image": "🙂"
   },
   {
+    "id": "che-9",
+    "word": "چاقو",
+    "deckId": "che",
+    "image": "🔪"
+  },
+  {
+    "id": "che-10",
+    "word": "چاپ",
+    "deckId": "che",
+    "image": "🖨️"
+  },
+  {
+    "id": "che-11",
+    "word": "چاه",
+    "deckId": "che",
+    "image": "🕳️"
+  },
+  {
+    "id": "che-12",
+    "word": "چهره",
+    "deckId": "che",
+    "image": "🙂"
+  },
+  {
+    "id": "che-13",
+    "word": "چشم",
+    "deckId": "che",
+    "image": "👁️"
+  },
+  {
+    "id": "che-14",
+    "word": "چمن",
+    "deckId": "che",
+    "image": "🌿"
+  },
+  {
+    "id": "che-15",
+    "word": "چای",
+    "deckId": "che",
+    "image": "☕"
+  },
+  {
+    "id": "che-16",
+    "word": "چراغ",
+    "deckId": "che",
+    "image": "💡"
+  },
+  {
+    "id": "che-17",
+    "word": "چکمه",
+    "deckId": "che",
+    "image": "🥾"
+  },
+  {
+    "id": "che-18",
+    "word": "چسب",
+    "deckId": "che",
+    "image": "📌"
+  },
+  {
+    "id": "che-19",
+    "word": "چنگال",
+    "deckId": "che",
+    "image": "🍴"
+  },
+  {
+    "id": "che-20",
+    "word": "چشمک",
+    "deckId": "che",
+    "image": "😉"
+  },
+  {
     "id": "zhe-1",
     "word": "ژان",
     "deckId": "zhe",
@@ -1246,6 +3022,78 @@
     "word": "ژارم",
     "deckId": "zhe",
     "image": "🙂"
+  },
+  {
+    "id": "zhe-9",
+    "word": "ژاله",
+    "deckId": "zhe",
+    "image": "💧"
+  },
+  {
+    "id": "zhe-10",
+    "word": "ژل",
+    "deckId": "zhe",
+    "image": "🧴"
+  },
+  {
+    "id": "zhe-11",
+    "word": "ژن",
+    "deckId": "zhe",
+    "image": "🧬"
+  },
+  {
+    "id": "zhe-12",
+    "word": "ژرف",
+    "deckId": "zhe",
+    "image": "🌊"
+  },
+  {
+    "id": "zhe-13",
+    "word": "ژول",
+    "deckId": "zhe",
+    "image": "📉"
+  },
+  {
+    "id": "zhe-14",
+    "word": "ژورنال",
+    "deckId": "zhe",
+    "image": "📓"
+  },
+  {
+    "id": "zhe-15",
+    "word": "ژلاتین",
+    "deckId": "zhe",
+    "image": "🍮"
+  },
+  {
+    "id": "zhe-16",
+    "word": "ژست",
+    "deckId": "zhe",
+    "image": "🧍‍♂️"
+  },
+  {
+    "id": "zhe-17",
+    "word": "ژیمناست",
+    "deckId": "zhe",
+    "image": "🤸"
+  },
+  {
+    "id": "zhe-18",
+    "word": "ژاکت",
+    "deckId": "zhe",
+    "image": "🧥"
+  },
+  {
+    "id": "zhe-19",
+    "word": "ژنو",
+    "deckId": "zhe",
+    "image": "🌍"
+  },
+  {
+    "id": "zhe-20",
+    "word": "ژرفا",
+    "deckId": "zhe",
+    "image": "🌌"
   },
   {
     "id": "he-1",
@@ -1296,6 +3144,78 @@
     "image": "🙂"
   },
   {
+    "id": "he-9",
+    "word": "هال",
+    "deckId": "he",
+    "image": "🚪"
+  },
+  {
+    "id": "he-10",
+    "word": "هیز",
+    "deckId": "he",
+    "image": "🔥"
+  },
+  {
+    "id": "he-11",
+    "word": "همان",
+    "deckId": "he",
+    "image": "➡️"
+  },
+  {
+    "id": "he-12",
+    "word": "هومن",
+    "deckId": "he",
+    "image": "👦"
+  },
+  {
+    "id": "he-13",
+    "word": "هور",
+    "deckId": "he",
+    "image": "☀️"
+  },
+  {
+    "id": "he-14",
+    "word": "هیچ",
+    "deckId": "he",
+    "image": "⭕"
+  },
+  {
+    "id": "he-15",
+    "word": "هاله",
+    "deckId": "he",
+    "image": "🌕"
+  },
+  {
+    "id": "he-16",
+    "word": "هزار",
+    "deckId": "he",
+    "image": "🔢"
+  },
+  {
+    "id": "he-17",
+    "word": "هستی",
+    "deckId": "he",
+    "image": "✨"
+  },
+  {
+    "id": "he-18",
+    "word": "همت",
+    "deckId": "he",
+    "image": "💪"
+  },
+  {
+    "id": "he-19",
+    "word": "هوا",
+    "deckId": "he",
+    "image": "💨"
+  },
+  {
+    "id": "he-20",
+    "word": "هند",
+    "deckId": "he",
+    "image": "🌏"
+  },
+  {
     "id": "lam-1",
     "word": "لام",
     "deckId": "lam",
@@ -1342,6 +3262,78 @@
     "word": "لادا",
     "deckId": "lam",
     "image": "🙂"
+  },
+  {
+    "id": "lam-9",
+    "word": "لب",
+    "deckId": "lam",
+    "image": "👄"
+  },
+  {
+    "id": "lam-10",
+    "word": "لبه",
+    "deckId": "lam",
+    "image": "📐"
+  },
+  {
+    "id": "lam-11",
+    "word": "لباس",
+    "deckId": "lam",
+    "image": "👗"
+  },
+  {
+    "id": "lam-12",
+    "word": "لنگ",
+    "deckId": "lam",
+    "image": "🦵"
+  },
+  {
+    "id": "lam-13",
+    "word": "لیوان",
+    "deckId": "lam",
+    "image": "🥛"
+  },
+  {
+    "id": "lam-14",
+    "word": "لوستر",
+    "deckId": "lam",
+    "image": "💡"
+  },
+  {
+    "id": "lam-15",
+    "word": "لنگر",
+    "deckId": "lam",
+    "image": "⚓"
+  },
+  {
+    "id": "lam-16",
+    "word": "لپه",
+    "deckId": "lam",
+    "image": "🫘"
+  },
+  {
+    "id": "lam-17",
+    "word": "لیمو",
+    "deckId": "lam",
+    "image": "🍋"
+  },
+  {
+    "id": "lam-18",
+    "word": "لانه",
+    "deckId": "lam",
+    "image": "🪺"
+  },
+  {
+    "id": "lam-19",
+    "word": "لشکر",
+    "deckId": "lam",
+    "image": "⚔️"
+  },
+  {
+    "id": "lam-20",
+    "word": "لوله",
+    "deckId": "lam",
+    "image": "🧵"
   },
   {
     "id": "ha-1",
@@ -1392,6 +3384,78 @@
     "image": "💡"
   },
   {
+    "id": "ha-9",
+    "word": "حرف",
+    "deckId": "ha",
+    "image": "🔤"
+  },
+  {
+    "id": "ha-10",
+    "word": "حوض",
+    "deckId": "ha",
+    "image": "🟦"
+  },
+  {
+    "id": "ha-11",
+    "word": "حمل",
+    "deckId": "ha",
+    "image": "📦"
+  },
+  {
+    "id": "ha-12",
+    "word": "حسن",
+    "deckId": "ha",
+    "image": "🙂"
+  },
+  {
+    "id": "ha-13",
+    "word": "حلال",
+    "deckId": "ha",
+    "image": "🕌"
+  },
+  {
+    "id": "ha-14",
+    "word": "حلقه",
+    "deckId": "ha",
+    "image": "💍"
+  },
+  {
+    "id": "ha-15",
+    "word": "حوله",
+    "deckId": "ha",
+    "image": "🧻"
+  },
+  {
+    "id": "ha-16",
+    "word": "حمام",
+    "deckId": "ha",
+    "image": "🛁"
+  },
+  {
+    "id": "ha-17",
+    "word": "حسنک",
+    "deckId": "ha",
+    "image": "👦"
+  },
+  {
+    "id": "ha-18",
+    "word": "حشرات",
+    "deckId": "ha",
+    "image": "🪲"
+  },
+  {
+    "id": "ha-19",
+    "word": "حقیقت",
+    "deckId": "ha",
+    "image": "✨"
+  },
+  {
+    "id": "ha-20",
+    "word": "حیوان",
+    "deckId": "ha",
+    "image": "🐾"
+  },
+  {
     "id": "zal-1",
     "word": "ذام",
     "deckId": "zal",
@@ -1438,6 +3502,78 @@
     "word": "ذاس",
     "deckId": "zal",
     "image": "🙂"
+  },
+  {
+    "id": "zal-9",
+    "word": "ذره",
+    "deckId": "zal",
+    "image": "🔬"
+  },
+  {
+    "id": "zal-10",
+    "word": "ذرت",
+    "deckId": "zal",
+    "image": "🌽"
+  },
+  {
+    "id": "zal-11",
+    "word": "ذوق",
+    "deckId": "zal",
+    "image": "😊"
+  },
+  {
+    "id": "zal-12",
+    "word": "ذکاوت",
+    "deckId": "zal",
+    "image": "🧠"
+  },
+  {
+    "id": "zal-13",
+    "word": "ذخیره",
+    "deckId": "zal",
+    "image": "💾"
+  },
+  {
+    "id": "zal-14",
+    "word": "ذلیل",
+    "deckId": "zal",
+    "image": "⚠️"
+  },
+  {
+    "id": "zal-15",
+    "word": "ذائب",
+    "deckId": "zal",
+    "image": "🔥"
+  },
+  {
+    "id": "zal-16",
+    "word": "ذهن",
+    "deckId": "zal",
+    "image": "🧠"
+  },
+  {
+    "id": "zal-17",
+    "word": "ذوال",
+    "deckId": "zal",
+    "image": "✨"
+  },
+  {
+    "id": "zal-18",
+    "word": "ذباح",
+    "deckId": "zal",
+    "image": "🔪"
+  },
+  {
+    "id": "zal-19",
+    "word": "ذم",
+    "deckId": "zal",
+    "image": "❗"
+  },
+  {
+    "id": "zal-20",
+    "word": "ذریعه",
+    "deckId": "zal",
+    "image": "📜"
   },
   {
     "id": "ain-1",
@@ -1488,6 +3624,78 @@
     "image": "🙂"
   },
   {
+    "id": "ain-9",
+    "word": "عین",
+    "deckId": "ain",
+    "image": "👁️"
+  },
+  {
+    "id": "ain-10",
+    "word": "عصر",
+    "deckId": "ain",
+    "image": "🌅"
+  },
+  {
+    "id": "ain-11",
+    "word": "عشق",
+    "deckId": "ain",
+    "image": "❤️"
+  },
+  {
+    "id": "ain-12",
+    "word": "علت",
+    "deckId": "ain",
+    "image": "❗"
+  },
+  {
+    "id": "ain-13",
+    "word": "عقل",
+    "deckId": "ain",
+    "image": "🧠"
+  },
+  {
+    "id": "ain-14",
+    "word": "عسل",
+    "deckId": "ain",
+    "image": "🍯"
+  },
+  {
+    "id": "ain-15",
+    "word": "عمر",
+    "deckId": "ain",
+    "image": "⌛"
+  },
+  {
+    "id": "ain-16",
+    "word": "عروس",
+    "deckId": "ain",
+    "image": "👰"
+  },
+  {
+    "id": "ain-17",
+    "word": "عشا",
+    "deckId": "ain",
+    "image": "🌙"
+  },
+  {
+    "id": "ain-18",
+    "word": "عشأ",
+    "deckId": "ain",
+    "image": "✨"
+  },
+  {
+    "id": "ain-19",
+    "word": "عاشق",
+    "deckId": "ain",
+    "image": "💞"
+  },
+  {
+    "id": "ain-20",
+    "word": "عبارت",
+    "deckId": "ain",
+    "image": "📘"
+  },
+  {
     "id": "qain-1",
     "word": "غام",
     "deckId": "qain",
@@ -1534,6 +3742,78 @@
     "word": "غادا",
     "deckId": "qain",
     "image": "🙂"
+  },
+  {
+    "id": "qain-9",
+    "word": "غذا",
+    "deckId": "qain",
+    "image": "🍽️"
+  },
+  {
+    "id": "qain-10",
+    "word": "غروب",
+    "deckId": "qain",
+    "image": "🌇"
+  },
+  {
+    "id": "qain-11",
+    "word": "غزال",
+    "deckId": "qain",
+    "image": "🦌"
+  },
+  {
+    "id": "qain-12",
+    "word": "غم",
+    "deckId": "qain",
+    "image": "😔"
+  },
+  {
+    "id": "qain-13",
+    "word": "غصه",
+    "deckId": "qain",
+    "image": "😢"
+  },
+  {
+    "id": "qain-14",
+    "word": "غنچه",
+    "deckId": "qain",
+    "image": "🌸"
+  },
+  {
+    "id": "qain-15",
+    "word": "غنی",
+    "deckId": "qain",
+    "image": "💰"
+  },
+  {
+    "id": "qain-16",
+    "word": "غول",
+    "deckId": "qain",
+    "image": "👹"
+  },
+  {
+    "id": "qain-17",
+    "word": "غلت",
+    "deckId": "qain",
+    "image": "🔄"
+  },
+  {
+    "id": "qain-18",
+    "word": "غلاف",
+    "deckId": "qain",
+    "image": "📘"
+  },
+  {
+    "id": "qain-19",
+    "word": "غبار",
+    "deckId": "qain",
+    "image": "🌫️"
+  },
+  {
+    "id": "qain-20",
+    "word": "غرفه",
+    "deckId": "qain",
+    "image": "🏪"
   },
   {
     "id": "sah-1",
@@ -1584,6 +3864,78 @@
     "image": "🙂"
   },
   {
+    "id": "sah-9",
+    "word": "صبح",
+    "deckId": "sah",
+    "image": "🌅"
+  },
+  {
+    "id": "sah-10",
+    "word": "صبر",
+    "deckId": "sah",
+    "image": "🕊️"
+  },
+  {
+    "id": "sah-11",
+    "word": "صدق",
+    "deckId": "sah",
+    "image": "✔️"
+  },
+  {
+    "id": "sah-12",
+    "word": "صدا",
+    "deckId": "sah",
+    "image": "🔊"
+  },
+  {
+    "id": "sah-13",
+    "word": "صحبت",
+    "deckId": "sah",
+    "image": "💬"
+  },
+  {
+    "id": "sah-14",
+    "word": "صابون",
+    "deckId": "sah",
+    "image": "🧼"
+  },
+  {
+    "id": "sah-15",
+    "word": "صندوق",
+    "deckId": "sah",
+    "image": "📦"
+  },
+  {
+    "id": "sah-16",
+    "word": "صندلی",
+    "deckId": "sah",
+    "image": "🪑"
+  },
+  {
+    "id": "sah-17",
+    "word": "صید",
+    "deckId": "sah",
+    "image": "🎣"
+  },
+  {
+    "id": "sah-18",
+    "word": "صحرا",
+    "deckId": "sah",
+    "image": "🏜️"
+  },
+  {
+    "id": "sah-19",
+    "word": "صلح",
+    "deckId": "sah",
+    "image": "🕊️"
+  },
+  {
+    "id": "sah-20",
+    "word": "صله",
+    "deckId": "sah",
+    "image": "🎁"
+  },
+  {
     "id": "zah-1",
     "word": "ضام",
     "deckId": "zah",
@@ -1630,6 +3982,78 @@
     "word": "ضامد",
     "deckId": "zah",
     "image": "🙂"
+  },
+  {
+    "id": "zah-9",
+    "word": "ضرس",
+    "deckId": "zah",
+    "image": "🦷"
+  },
+  {
+    "id": "zah-10",
+    "word": "ضغط",
+    "deckId": "zah",
+    "image": "💢"
+  },
+  {
+    "id": "zah-11",
+    "word": "ضم",
+    "deckId": "zah",
+    "image": "➕"
+  },
+  {
+    "id": "zah-12",
+    "word": "ضد",
+    "deckId": "zah",
+    "image": "⚔️"
+  },
+  {
+    "id": "zah-13",
+    "word": "ضرر",
+    "deckId": "zah",
+    "image": "⚠️"
+  },
+  {
+    "id": "zah-14",
+    "word": "ضمان",
+    "deckId": "zah",
+    "image": "📑"
+  },
+  {
+    "id": "zah-15",
+    "word": "ضمن",
+    "deckId": "zah",
+    "image": "📘"
+  },
+  {
+    "id": "zah-16",
+    "word": "ضیف",
+    "deckId": "zah",
+    "image": "🧑‍🍳"
+  },
+  {
+    "id": "zah-17",
+    "word": "ضیاء",
+    "deckId": "zah",
+    "image": "✨"
+  },
+  {
+    "id": "zah-18",
+    "word": "ضیافت",
+    "deckId": "zah",
+    "image": "🍽️"
+  },
+  {
+    "id": "zah-19",
+    "word": "ضراب",
+    "deckId": "zah",
+    "image": "🔨"
+  },
+  {
+    "id": "zah-20",
+    "word": "ضریح",
+    "deckId": "zah",
+    "image": "🕌"
   },
   {
     "id": "zahz-1",
@@ -1680,6 +4104,78 @@
     "image": "📘"
   },
   {
+    "id": "zahz-9",
+    "word": "ظرف",
+    "deckId": "zahz",
+    "image": "🍽️"
+  },
+  {
+    "id": "zahz-10",
+    "word": "ظاهر",
+    "deckId": "zahz",
+    "image": "🙂"
+  },
+  {
+    "id": "zahz-11",
+    "word": "ظلم",
+    "deckId": "zahz",
+    "image": "⚠️"
+  },
+  {
+    "id": "zahz-12",
+    "word": "ظریف",
+    "deckId": "zahz",
+    "image": "🧵"
+  },
+  {
+    "id": "zahz-13",
+    "word": "ظفر",
+    "deckId": "zahz",
+    "image": "🏆"
+  },
+  {
+    "id": "zahz-14",
+    "word": "ظلال",
+    "deckId": "zahz",
+    "image": "🌑"
+  },
+  {
+    "id": "zahz-15",
+    "word": "ظالم",
+    "deckId": "zahz",
+    "image": "😠"
+  },
+  {
+    "id": "zahz-16",
+    "word": "ظن",
+    "deckId": "zahz",
+    "image": "❓"
+  },
+  {
+    "id": "zahz-17",
+    "word": "ظبی",
+    "deckId": "zahz",
+    "image": "🦌"
+  },
+  {
+    "id": "zahz-18",
+    "word": "ظلالا",
+    "deckId": "zahz",
+    "image": "🌫️"
+  },
+  {
+    "id": "zahz-19",
+    "word": "ظریفه",
+    "deckId": "zahz",
+    "image": "✨"
+  },
+  {
+    "id": "zahz-20",
+    "word": "ظلالت",
+    "deckId": "zahz",
+    "image": "⚫"
+  },
+  {
     "id": "tah-1",
     "word": "طار",
     "deckId": "tah",
@@ -1726,6 +4222,78 @@
     "word": "طاس",
     "deckId": "tah",
     "image": "🙂"
+  },
+  {
+    "id": "tah-9",
+    "word": "طبیب",
+    "deckId": "tah",
+    "image": "⚕️"
+  },
+  {
+    "id": "tah-10",
+    "word": "طبیعت",
+    "deckId": "tah",
+    "image": "🌿"
+  },
+  {
+    "id": "tah-11",
+    "word": "طارم",
+    "deckId": "tah",
+    "image": "🏞️"
+  },
+  {
+    "id": "tah-12",
+    "word": "طوفان",
+    "deckId": "tah",
+    "image": "🌪️"
+  },
+  {
+    "id": "tah-13",
+    "word": "طعم",
+    "deckId": "tah",
+    "image": "🍽️"
+  },
+  {
+    "id": "tah-14",
+    "word": "طلب",
+    "deckId": "tah",
+    "image": "📜"
+  },
+  {
+    "id": "tah-15",
+    "word": "طلا",
+    "deckId": "tah",
+    "image": "🥇"
+  },
+  {
+    "id": "tah-16",
+    "word": "طلوع",
+    "deckId": "tah",
+    "image": "🌅"
+  },
+  {
+    "id": "tah-17",
+    "word": "طقس",
+    "deckId": "tah",
+    "image": "🌤️"
+  },
+  {
+    "id": "tah-18",
+    "word": "طناب",
+    "deckId": "tah",
+    "image": "🪢"
+  },
+  {
+    "id": "tah-19",
+    "word": "طیس",
+    "deckId": "tah",
+    "image": "📘"
+  },
+  {
+    "id": "tah-20",
+    "word": "طی",
+    "deckId": "tah",
+    "image": "➡️"
   },
   {
     "id": "kha-1",
@@ -1776,6 +4344,78 @@
     "image": "🙂"
   },
   {
+    "id": "kha-9",
+    "word": "خوارک",
+    "deckId": "kha",
+    "image": "🥗"
+  },
+  {
+    "id": "kha-10",
+    "word": "خواه",
+    "deckId": "kha",
+    "image": "🙏"
+  },
+  {
+    "id": "kha-11",
+    "word": "خواست",
+    "deckId": "kha",
+    "image": "📝"
+  },
+  {
+    "id": "kha-12",
+    "word": "خواندن",
+    "deckId": "kha",
+    "image": "📘"
+  },
+  {
+    "id": "kha-13",
+    "word": "خوابان",
+    "deckId": "kha",
+    "image": "🛏️"
+  },
+  {
+    "id": "kha-14",
+    "word": "خوشا",
+    "deckId": "kha",
+    "image": "😊"
+  },
+  {
+    "id": "kha-15",
+    "word": "خوابی",
+    "deckId": "kha",
+    "image": "🛌"
+  },
+  {
+    "id": "kha-16",
+    "word": "خوارش",
+    "deckId": "kha",
+    "image": "🧂"
+  },
+  {
+    "id": "kha-17",
+    "word": "خواگرد",
+    "deckId": "kha",
+    "image": "🔁"
+  },
+  {
+    "id": "kha-18",
+    "word": "خواستار",
+    "deckId": "kha",
+    "image": "📣"
+  },
+  {
+    "id": "kha-19",
+    "word": "خواهان",
+    "deckId": "kha",
+    "image": "💭"
+  },
+  {
+    "id": "kha-20",
+    "word": "خواهی",
+    "deckId": "kha",
+    "image": "👉"
+  },
+  {
     "id": "ze-1",
     "word": "زام",
     "deckId": "ze",
@@ -1822,5 +4462,77 @@
     "word": "زارم",
     "deckId": "ze",
     "image": "🙂"
+  },
+  {
+    "id": "ze-9",
+    "word": "زبان",
+    "deckId": "ze",
+    "image": "👅"
+  },
+  {
+    "id": "ze-10",
+    "word": "زنبور",
+    "deckId": "ze",
+    "image": "🐝"
+  },
+  {
+    "id": "ze-11",
+    "word": "زیتون",
+    "deckId": "ze",
+    "image": "🫒"
+  },
+  {
+    "id": "ze-12",
+    "word": "زمین",
+    "deckId": "ze",
+    "image": "🌍"
+  },
+  {
+    "id": "ze-13",
+    "word": "زور",
+    "deckId": "ze",
+    "image": "💪"
+  },
+  {
+    "id": "ze-14",
+    "word": "زمستان",
+    "deckId": "ze",
+    "image": "❄️"
+  },
+  {
+    "id": "ze-15",
+    "word": "زنگ",
+    "deckId": "ze",
+    "image": "🔔"
+  },
+  {
+    "id": "ze-16",
+    "word": "زر",
+    "deckId": "ze",
+    "image": "🥇"
+  },
+  {
+    "id": "ze-17",
+    "word": "زیبا",
+    "deckId": "ze",
+    "image": "🌸"
+  },
+  {
+    "id": "ze-18",
+    "word": "زود",
+    "deckId": "ze",
+    "image": "⏩"
+  },
+  {
+    "id": "ze-19",
+    "word": "زانو",
+    "deckId": "ze",
+    "image": "🦵"
+  },
+  {
+    "id": "ze-20",
+    "word": "زدن",
+    "deckId": "ze",
+    "image": "✋"
   }
 ]
